@@ -1,0 +1,26 @@
+.form{
+    width: 50%;
+    height: 600px;
+    border: 10px solid black;
+    background-color: red;
+    
+}
+
+#fname{
+    border: 1px dotted lightcyan;
+    color: green;
+}
+
+
+    .btn:hover{
+        background-color: lightsalmon;
+    }
+
+  body{
+    width:80%;
+    height:;
+    background-color: red;
+    border: 1px solid black;
+  }  
+    
+  
